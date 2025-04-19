@@ -46,13 +46,13 @@ Users should be able to:
 
 Rather than having two images of different resolutions, I noticed that there are two different images used for mobile and desktop screens and I was wondering how to go about that. I ended up finding this [Medium article](https://medium.com/front-end-weekly/how-to-swap-elements-based-on-screen-size-using-css-b01ec4984ef2) using this exact challenge. I did not use the exact solution the article gave but tweaked it to fit my markup. Alternatively, there were suggestions using < picture > with srcset, but it ended up messing up my layout.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+
 
 ### Continued development
 
 I meticulously got the layout, sizing, and spacing to almost exactly as the design preview, although there is probably an easier way to do it or there's something in my markup that needs to be tweaked. I realized by removing the "box-sizing: border-box property", that it fixed alot of my spacing problems, but it made me use some unusual measurements. Will continue to work on that.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 ### Useful resources
 
